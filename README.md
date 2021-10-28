@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LBGdatasci
-- 👀 I’m interested in data science and any other relateds.
+- 👀 I’m interested in data science, front-end and any other relateds.
 - 🌱 I’m currently learning python3 (back-end), JavaScript, HTML and CSS.
 - 💞️ I’m looking to collaborate on anything related to data and others.
 - 📫 Reach me at leonardobg.datascience@gmail.com
